@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57818781272",
+    "project_id": "product-selling-app-ad339",
+    "storage_bucket": "product-selling-app-ad339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57818781272:android:6eb339a3e5ef0b2f929c2d",
+        "android_client_info": {
+          "package_name": "com.example.productsellingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57818781272-m2d18ud6ictod111084rem8g3jf54j0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.productsellingapp",
+            "certificate_hash": "ceb8ab7fbe0eafb114abb5fdeadddf0ea3efb9b3"
+          }
+        },
+        {
+          "client_id": "57818781272-oc4veej3eubm19ak91gkl9ta16eqldi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0oiy3YA1sk85cTDV5arLhq0UCvn_EkkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57818781272-oc4veej3eubm19ak91gkl9ta16eqldi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
